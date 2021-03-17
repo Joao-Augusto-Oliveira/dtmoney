@@ -1,12 +1,13 @@
 <div align=center>
 
-
 <h3>
 
-Projeto (em desenvolvimento) do Programa Ignite - Trilha ReactJS - da [Rocketseat], com **HTML**, **CSS**, **JAVASCRIPT**, **ReactJS** e **Typescript**.
-
+Projeto desenvolvido no Programa Ignite - Trilha ReactJS - da [Rocketseat], com **HTML**, **CSS**, **JAVASCRIPT**, **ReactJS** e **Typescript**.
 
 </h3>
+
+![PRINTS](./layouts/summary.png)
+![PRINTS](./layouts/modal.png)
 
 </div>
 
@@ -15,13 +16,15 @@ Projeto (em desenvolvimento) do Programa Ignite - Trilha ReactJS - da [Rocketsea
 O dtmoney é uma aplicação de gerenciamento de finanças, que permite o cadastro de entradas e saídas, bem como, realiza o cálculo do respectivo saldo.
 
 <br>
-<br>
 
-Funcionalidades:
+## ✅ **Funcionalidades**
 - Adicionar transação;
-- Remover transação;
-- Cálculo do saldo;
 - Categorização da transação;
+- Cálculo do saldo;
+
+## ⏲️ **Próximas Funcionalidades**
+- Remover transação;
+- Theme Dark;
 
 <br>
 
@@ -48,7 +51,7 @@ $ cd dtmoney
 $ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn dev
+$ yarn start
 
 
 ```
